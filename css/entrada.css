@@ -3,8 +3,8 @@
 
 .glow-on-hover {
     margin-top: 50px;
-    width: 100%;
-    height: 100%;
+    width: 300px;
+    height: 50px;
     border: none;
     outline: none;
     color: #fff;
@@ -56,13 +56,12 @@
     50% { background-position: 400% 0; }
     100% { background-position: 0 0; }
 }
-div{
-    padding: 1px;
-    color: #ff0000;
+section#entrada{
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
 }
-div#interface{
-    padding: 50px;
-}
-p#A{
-    color: #b38b09;
+section#entrada p{
+    color: #002bff;
 }
